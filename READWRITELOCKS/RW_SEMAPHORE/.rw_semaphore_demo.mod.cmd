@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/READWRITELOCKS/RW_SEMAPHORE/rw_semaphore_demo.mod := printf '%s\n'   rw_semaphore_demo.o | awk '!x[$$0]++ { print("/home/vboxuser/synchronizaation/READWRITELOCKS/RW_SEMAPHORE/"$$0) }' > /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SEMAPHORE/rw_semaphore_demo.mod

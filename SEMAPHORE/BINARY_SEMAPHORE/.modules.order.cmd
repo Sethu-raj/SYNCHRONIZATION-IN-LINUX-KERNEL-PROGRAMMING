@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/SEMAPHORE/BINARY_SEMAPHORE/modules.order := {   echo /home/vboxuser/synchronizaation/SEMAPHORE/BINARY_SEMAPHORE/semaphore_demo.o; :; } > /home/vboxuser/synchronizaation/SEMAPHORE/BINARY_SEMAPHORE/modules.order

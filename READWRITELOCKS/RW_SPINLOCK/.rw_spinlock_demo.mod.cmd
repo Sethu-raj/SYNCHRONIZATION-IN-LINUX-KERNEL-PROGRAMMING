@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/READWRITELOCKS/RW_SPINLOCK/rw_spinlock_demo.mod := printf '%s\n'   rw_spinlock_demo.o | awk '!x[$$0]++ { print("/home/vboxuser/synchronizaation/READWRITELOCKS/RW_SPINLOCK/"$$0) }' > /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SPINLOCK/rw_spinlock_demo.mod

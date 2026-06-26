@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/SEMAPHORE/BINARY_SEMAPHORE/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/synchronizaation/SEMAPHORE/BINARY_SEMAPHORE/Module.symvers -T /home/vboxuser/synchronizaation/SEMAPHORE/BINARY_SEMAPHORE/modules.order -i Module.symvers -e 

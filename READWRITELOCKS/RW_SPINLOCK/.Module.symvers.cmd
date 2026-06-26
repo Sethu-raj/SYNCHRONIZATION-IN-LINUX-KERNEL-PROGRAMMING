@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/READWRITELOCKS/RW_SPINLOCK/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SPINLOCK/Module.symvers -T /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SPINLOCK/modules.order -i Module.symvers -e 

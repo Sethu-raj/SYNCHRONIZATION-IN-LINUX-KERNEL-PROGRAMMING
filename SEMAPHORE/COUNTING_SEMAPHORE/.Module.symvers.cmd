@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/SEMAPHORE/COUNTING_SEMAPHORE/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/synchronizaation/SEMAPHORE/COUNTING_SEMAPHORE/Module.symvers -T /home/vboxuser/synchronizaation/SEMAPHORE/COUNTING_SEMAPHORE/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/READWRITELOCKS/RW_SEMAPHORE/modules.order := {   echo /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SEMAPHORE/rw_semaphore_demo.o; :; } > /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SEMAPHORE/modules.order
