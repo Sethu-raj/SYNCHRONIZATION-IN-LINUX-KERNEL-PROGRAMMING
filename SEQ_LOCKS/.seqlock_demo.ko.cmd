@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/SEQ_LOCKS/seqlock_demo.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/synchronizaation/SEQ_LOCKS/seqlock_demo.ko /home/vboxuser/synchronizaation/SEQ_LOCKS/seqlock_demo.o /home/vboxuser/synchronizaation/SEQ_LOCKS/seqlock_demo.mod.o

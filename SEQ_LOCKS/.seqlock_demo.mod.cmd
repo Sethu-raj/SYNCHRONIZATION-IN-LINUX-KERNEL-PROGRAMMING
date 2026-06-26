@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/SEQ_LOCKS/seqlock_demo.mod := printf '%s\n'   seqlock_demo.o | awk '!x[$$0]++ { print("/home/vboxuser/synchronizaation/SEQ_LOCKS/"$$0) }' > /home/vboxuser/synchronizaation/SEQ_LOCKS/seqlock_demo.mod
