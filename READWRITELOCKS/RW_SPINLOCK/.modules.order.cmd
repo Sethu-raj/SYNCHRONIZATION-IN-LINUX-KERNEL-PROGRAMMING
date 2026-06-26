@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/READWRITELOCKS/RW_SPINLOCK/modules.order := {   echo /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SPINLOCK/rw_spinlock_demo.o; :; } > /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SPINLOCK/modules.order

@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/MUTEX/mutex_demo.mod := printf '%s\n'   mutex_demo.o | awk '!x[$$0]++ { print("/home/vboxuser/synchronizaation/MUTEX/"$$0) }' > /home/vboxuser/synchronizaation/MUTEX/mutex_demo.mod

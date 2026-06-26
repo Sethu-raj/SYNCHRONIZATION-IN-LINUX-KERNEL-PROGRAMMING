@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/READWRITELOCKS/RW_SEMAPHORE/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SEMAPHORE/Module.symvers -T /home/vboxuser/synchronizaation/READWRITELOCKS/RW_SEMAPHORE/modules.order -i Module.symvers -e 

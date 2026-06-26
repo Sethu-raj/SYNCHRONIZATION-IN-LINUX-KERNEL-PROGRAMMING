@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/MUTEX/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/synchronizaation/MUTEX/Module.symvers -T /home/vboxuser/synchronizaation/MUTEX/modules.order -i Module.symvers -e 

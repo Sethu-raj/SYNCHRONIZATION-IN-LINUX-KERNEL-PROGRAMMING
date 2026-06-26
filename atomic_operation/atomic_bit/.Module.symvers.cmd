@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic_bit/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic_bit/Module.symvers -T /home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic_bit/modules.order -i Module.symvers -e 

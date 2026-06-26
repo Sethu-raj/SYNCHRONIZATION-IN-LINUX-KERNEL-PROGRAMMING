@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/SYNCHRONIZATION/PER_CPU/percpu_demo.mod := printf '%s\n'   percpu_demo.o | awk '!x[$$0]++ { print("/home/sethuraj/SYNCHRONIZATION/PER_CPU/"$$0) }' > /home/sethuraj/SYNCHRONIZATION/PER_CPU/percpu_demo.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/SYNCHRONIZATION/PER_CPU/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/sethuraj/SYNCHRONIZATION/PER_CPU/Module.symvers -T /home/sethuraj/SYNCHRONIZATION/PER_CPU/modules.order -i Module.symvers -e 

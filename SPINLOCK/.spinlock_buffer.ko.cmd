@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/SYNCHRONIZATION/SPINLOCK/spinlock_buffer.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/SYNCHRONIZATION/SPINLOCK/spinlock_buffer.ko /home/sethuraj/SYNCHRONIZATION/SPINLOCK/spinlock_buffer.o /home/sethuraj/SYNCHRONIZATION/SPINLOCK/spinlock_buffer.mod.o

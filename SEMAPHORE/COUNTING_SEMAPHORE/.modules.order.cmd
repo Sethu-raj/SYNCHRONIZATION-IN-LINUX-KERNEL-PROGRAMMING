@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/SEMAPHORE/COUNTING_SEMAPHORE/modules.order := {   echo /home/vboxuser/synchronizaation/SEMAPHORE/COUNTING_SEMAPHORE/counting_semaphore_demo.o; :; } > /home/vboxuser/synchronizaation/SEMAPHORE/COUNTING_SEMAPHORE/modules.order

@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/synchronizaation/RCU_LOCKS/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/synchronizaation/RCU_LOCKS/Module.symvers -T /home/vboxuser/synchronizaation/RCU_LOCKS/modules.order -i Module.symvers -e 
