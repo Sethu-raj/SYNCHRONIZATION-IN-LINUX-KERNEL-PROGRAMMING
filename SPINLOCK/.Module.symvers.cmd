@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/SYNCHRONIZATION/SPINLOCK/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/sethuraj/SYNCHRONIZATION/SPINLOCK/Module.symvers -T /home/sethuraj/SYNCHRONIZATION/SPINLOCK/modules.order -i Module.symvers -e 
