@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic/atomic_demo.mod := printf '%s\n'   atomic_demo.o | awk '!x[$$0]++ { print("/home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic/"$$0) }' > /home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic/atomic_demo.mod

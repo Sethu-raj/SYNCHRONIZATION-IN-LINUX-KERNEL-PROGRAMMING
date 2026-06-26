@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/SYNCHRONIZATION/PER_CPU_DS/percpu_slides.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/SYNCHRONIZATION/PER_CPU_DS/percpu_slides.ko /home/sethuraj/SYNCHRONIZATION/PER_CPU_DS/percpu_slides.o /home/sethuraj/SYNCHRONIZATION/PER_CPU_DS/percpu_slides.mod.o

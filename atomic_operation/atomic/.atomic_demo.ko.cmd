@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic/atomic_demo.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic/atomic_demo.ko /home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic/atomic_demo.o /home/sethuraj/SYNCHRONIZATION/atomic_operation/atomic/atomic_demo.mod.o
